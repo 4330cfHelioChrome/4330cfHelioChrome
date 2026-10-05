@@ -15,6 +15,10 @@ Can you guess where do I live?🫠
 - [Reddit - u/HelioChrome_PME](https://www.reddit.com/user/HelioChrome_PME/)
 - [Steam - HelioChrome-PME](https://steamcommunity.com/id/HelioChrome-PME/)
 
-...<br>
-I am a good boy
+# ℰ𝒯𝒞 💀
 
+I am a good boy<br>
+I use Vercel to make websites<br>
+I like math and computer sciences but i dont study a lot<br>
+Github is a great platform<br>
+Im not sure what to do with Github tho
