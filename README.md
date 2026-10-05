@@ -1,10 +1,10 @@
 ## Its me HelioChrome
 
-**I like coding**
-**I use C, C++, Python, Lua, and HTML**
-**I am a YOUNG student**
+**I like coding<br>**
+**I use C, C++, Python, Lua, and HTML<br>**
+**I am a YOUNG student<br>**
 
-I love BIGBANG and G-DRAGON♥️
+I love BIGBANG and G-DRAGON♥️<br>
 Can you guess where do I live?🫠
 
 
