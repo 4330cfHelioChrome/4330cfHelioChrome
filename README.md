@@ -21,4 +21,5 @@ I am a good boy<br>
 I use Vercel to make websites<br>
 I like math and computer sciences but i dont study a lot<br>
 Github is a great platform<br>
-Im not sure what to do with Github tho
+Im not sure what to do with Github tho<br><br>
+Plus i did more than 200 contributions but it doesnt show up :(
