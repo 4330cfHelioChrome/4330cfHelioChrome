@@ -14,6 +14,7 @@ Can you guess where do I live?🫠
 - [ROBLOX - @Bancroftgeese](https://www.roblox.com/users/4560744151/profile)
 - [Reddit - u/HelioChrome_PME](https://www.reddit.com/user/HelioChrome_PME/)
 - [Steam - HelioChrome-PME](https://steamcommunity.com/id/HelioChrome-PME/)
+- [My personal portfolio website](https://heliochrome.vercel.app)
 
 # ETC 💀
 
@@ -22,4 +23,3 @@ I use Vercel to make websites<br>
 I like math and computer sciences but i dont study a lot<br>
 Github is a great platform<br>
 Im not sure what to do with Github tho<br><br>
-Plus i did more than 200 contributions but it doesnt show up :(
