@@ -5,7 +5,7 @@
 ---
 
 #### **I like coding.<br>**
-#### **I use a lot of programming languages and game engines.<br>**
+#### **I use a lot of programming languages and platforms.<br>**
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
