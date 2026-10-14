@@ -31,12 +31,20 @@ I am a big fan of BIGBANG and G-DRAGON♥️<br>
 Can you guess where do I live?🫠
 
 # MY PROFILES 🌌
+> My Portfolio website's projects tab : [link](https://heliochrome.vercel.app/projects.html)
 
 - [HuggingFace - HelioChrome](https://huggingface.co/HelioChrome)
 - [ROBLOX - @Bancroftgeese](https://www.roblox.com/users/4560744151/profile)
 - [Reddit - u/HelioChrome_PME](https://www.reddit.com/user/HelioChrome_PME/)
 - [Steam - HelioChrome-PME](https://steamcommunity.com/id/HelioChrome-PME/)
 - [My personal portfolio website](https://heliochrome.vercel.app)
+
+# GO AND SEE MY PROJECTS
+
+[HelioChrome's Portfolio](https://github.com/4330cfHelioChrome/helio-portfolio)</br>
+[Simple Game of Life](https://github.com/4330cfHelioChrome/vercel_gameoflife)</br>
+
+
 
 # ETC 💀
 
