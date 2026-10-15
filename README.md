@@ -46,7 +46,7 @@ Can you guess where do I live?🫠
 [HelioChrome's Portfolio](https://github.com/4330cfHelioChrome/helio-portfolio)</br>
 [Simple Game of Life](https://github.com/4330cfHelioChrome/vercel_gameoflife)</br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=4330cfHelioChrome&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=4330cfHelioChrome&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
 
 
 # ETC 💀
