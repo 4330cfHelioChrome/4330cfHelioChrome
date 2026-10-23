@@ -24,6 +24,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 
 #### also i like using AIs like Claude<br><br>
 
